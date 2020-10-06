@@ -1,0 +1,1 @@
+<a href="index.php/news">Voir les news</a>
